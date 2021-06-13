@@ -3,8 +3,8 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello.....</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Hello React World</h1>
+      <h2>new to React</h2>
     </div>
   );
 }
